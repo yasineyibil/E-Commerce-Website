@@ -1,0 +1,9 @@
+Selamlar,
+
+Iki adet veri tabani olusturmaniz gerekmektedir, birincisinin adini magaza ikincisinin adini ise tanitim koymanız gerekiyor.
+
+
+magaza adli veri tabanina magaza.sql,
+tanitim adli veri tababina tanitim.sql olanini eklemelisiniz aksi takdirde içerikler yüklenmez.
+
+"yakın zamanda güncellenecektir"
