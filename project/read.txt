@@ -1,20 +1,18 @@
-Selamlar,
-
-Iki adet veri tabani olusturmaniz gerekmektedir, birincisinin adini magaza ikincisinin adini ise tanitim koymanız gerekiyor.
+Hi,
 
 
-magaza adli veri tabanina magaza.sql,
-tanitim adli veri tababina tanitim.sql olanini eklemelisiniz aksi takdirde içerikler yüklenmez.
+Create a database named magaza and import magaza.sql into it
+Create a database named tanitim and import tanitim.sql into it
 
-admin paneline gidebilmek için giriş ekranında;
+To go to the admin panel, on the login screen;
 
 admin@gmail.com
 admin123
 
-maili kontrol etmek için;
+to check mail;
 
 antiqueranch@gmail.com
 testmail123
 
 
-"yakın zamanda güncellenecektir"
+"will be updated soon"
