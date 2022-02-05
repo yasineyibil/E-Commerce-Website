@@ -6,4 +6,15 @@ Iki adet veri tabani olusturmaniz gerekmektedir, birincisinin adini magaza ikinc
 magaza adli veri tabanina magaza.sql,
 tanitim adli veri tababina tanitim.sql olanini eklemelisiniz aksi takdirde içerikler yüklenmez.
 
+admin paneline gidebilmek için giriş ekranında;
+
+admin@gmail.com
+admin123
+
+maili kontrol etmek için;
+
+antiqueranch@gmail.com
+testmail123
+
+
 "yakın zamanda güncellenecektir"
